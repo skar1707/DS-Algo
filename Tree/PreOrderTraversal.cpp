@@ -1,6 +1,10 @@
+#include <iostream>
 
-class Node {
-    public:
+using namespace std;
+
+
+struct Node {
+
         int data;
         Node *left;
         Node *right;
@@ -9,9 +13,9 @@ class Node {
             left = NULL;
             right = NULL;
         }
+};
 
-
-    void preOrder(Node *root) {
+    void preOrder(struct Node *root) {
         
         if(root)
         {
@@ -24,17 +28,16 @@ class Node {
         }
     }
 
-};
 int main()
 {
-    Node* root = new Node(1);
+    struct Node* root = new Node(1);
     root->left = new Node(2);
     root->right = new Node(3);
     root->left->left = new Node(4);
     root->left->right = new Node(5);
  
     cout << "\nPreorder traversal of binary tree is \n";
-    preorder(root);
+    preOrder(root);
  
 	return 0;
 }
