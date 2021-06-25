@@ -8,6 +8,10 @@
 - # **Linked List**
 > [Reverse List](https://github.com/skar1707/DS-Algo/blob/main/Linked%20List/Reverse_List.cpp)
 
+> [Loop Detection](https://github.com/skar1707/DS-Algo/blob/main/Linked%20List/Loop_Detection.cpp)
+
+> [SLL With Tail](https://github.com/skar1707/DS-Algo/blob/main/Linked%20List/SLL_With_Tail.cpp)
+
 - # **Stack**
 > [Balance Bracket](https://github.com/skar1707/DS-Algo/blob/main/Stack/BalancedBracket.cpp)
 > 
