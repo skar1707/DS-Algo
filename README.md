@@ -9,6 +9,9 @@
 
 > [Kaprekar Number](https://github.com/skar1707/DS-Algo/blob/main/Array/Kaprekar_Number.cpp)
 
+- # **String**
+>[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
+
 - # **Linked List**
 > [Reverse List](https://github.com/skar1707/DS-Algo/blob/main/Linked%20List/Reverse_List.cpp)
 
