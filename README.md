@@ -26,6 +26,8 @@
 > 
 > [Super Reduced String](https://github.com/skar1707/DS-Algo/blob/main/Stack/Super_Reduced_string.cpp)
 
+> [Stack with Max](https://github.com/skar1707/DS-Algo/blob/main/Stack/stack_with_max_naive.cpp)
+
 - # **Queue**
 > [Queue Using LinkedList](https://github.com/skar1707/DS-Algo/blob/main/Queue/QueueUsingLinkedList.cpp)
 
