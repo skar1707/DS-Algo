@@ -9,6 +9,10 @@
 
 > [Kaprekar Number](https://github.com/skar1707/DS-Algo/blob/main/Array/Kaprekar_Number.cpp)
 
+> [Maximum Consecutive Ones](https://github.com/skar1707/DS-Algo/blob/main/Array/findMaxConsecutiveOnes.cpp)
+
+>[Even Digits Number](https://github.com/skar1707/DS-Algo/blob/main/Array/EvenNumberDigits.cpp)
+
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
