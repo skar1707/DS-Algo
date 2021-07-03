@@ -2,7 +2,7 @@
 
 ## Question
 
-- # **Array**
+- # **Array**)
 > [Array Rotation](https://github.com/skar1707/DS-Algo/blob/main/Array/Array_Rotation.cpp)
 
 > [Median of Array](https://github.com/skar1707/DS-Algo/blob/main/Array/Median.cpp)
@@ -12,6 +12,10 @@
 > [Maximum Consecutive Ones](https://github.com/skar1707/DS-Algo/blob/main/Array/findMaxConsecutiveOnes.cpp)
 
 >[Even Digits Number](https://github.com/skar1707/DS-Algo/blob/main/Array/EvenNumberDigits.cpp)
+
+>[Duplicate Zeroes](https://github.com/skar1707/DS-Algo/blob/main/Array/Duplicate_Zero.cpp)
+
+>[Square of Sorted Array](https://github.com/skar1707/DS-Algo/blob/main/Array/Square_of_Sorted_Array.cpp)
 
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
