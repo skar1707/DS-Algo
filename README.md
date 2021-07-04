@@ -2,7 +2,7 @@
 
 ## Question
 
-- # **Array**)
+- # **Array**
 > [Array Rotation](https://github.com/skar1707/DS-Algo/blob/main/Array/Array_Rotation.cpp)
 
 > [Median of Array](https://github.com/skar1707/DS-Algo/blob/main/Array/Median.cpp)
