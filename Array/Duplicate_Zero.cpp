@@ -4,6 +4,11 @@ Note that elements beyond the length of the original array are not written.
 
 Do the above modifications to the input array in place, do not return anything from your function.*/
 
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 void duplicateZeros(vector<int>& arr) {
     
     int len = arr.size();

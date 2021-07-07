@@ -1,6 +1,8 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
+
 
 double mean(vector<int> vec){
 

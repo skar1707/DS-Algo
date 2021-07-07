@@ -1,6 +1,11 @@
 
 //Given an integer array nums and an integer val, remove all occurrences of val in nums in-place.
 
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 int removeElement(vector<int>& nums, int val) {
         
         int k =0;
