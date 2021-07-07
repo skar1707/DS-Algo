@@ -4,6 +4,10 @@ Output: 1
 Explanation: 
 Only 1771 contains an even number of digits.*/
 
+#include <iostream>
+#include <vector>
+
+using namespace std;
 
 int findNumbers(vector<int>& nums) {
     

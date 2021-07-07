@@ -1,5 +1,10 @@
 //To find the maximum number of 1's occurence in a vector
 
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 int findMaxConsecutiveOnes(vector<int> nums) {
         
         int num =0;
