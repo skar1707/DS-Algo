@@ -13,7 +13,7 @@
 
 >[Even Digits Number](https://github.com/skar1707/DS-Algo/blob/main/Array/EvenNumberDigits.cpp)
 
->[Duplicate Zeroes](https://github.com/skar1707/DS-Algo/blob/main/Array/Duplicate_Zero.cpp)
+>[Duplicate Zeroes Removal](https://github.com/skar1707/DS-Algo/blob/main/Array/Duplicate_Zero.cpp)
 
 >[Square of Sorted Array](https://github.com/skar1707/DS-Algo/blob/main/Array/Square_of_Sorted_Array.cpp)
 
