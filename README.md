@@ -17,6 +17,8 @@
 
 >[Square of Sorted Array](https://github.com/skar1707/DS-Algo/blob/main/Array/Square_of_Sorted_Array.cpp)
 
+>[Valid Mountains](https://github.com/skar1707/DS-Algo/blob/main/Array/Valid_Mountain.cpp)
+
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
