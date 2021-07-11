@@ -22,6 +22,8 @@
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
+>[Merge Strings Alternatively](https://github.com/skar1707/DS-Algo/blob/main/String/MergeAlternatively.cpp)
+
 - # **Linked List**
 > [Reverse List](https://github.com/skar1707/DS-Algo/blob/main/Linked%20List/Reverse_List.cpp)
 
