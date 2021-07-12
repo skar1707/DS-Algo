@@ -21,6 +21,10 @@
 
 >[Moves Zeroes(Beautiful)](https://github.com/skar1707/DS-Algo/blob/main/Array/Move_Zeroes.cpp)
 
+>[Remove Duplicates Entries from Array](https://github.com/skar1707/DS-Algo/blob/main/Array/RemoveDuplicate.cpp)
+
+>[Merge Two Sorted Arrays](https://github.com/skar1707/DS-Algo/blob/main/Array/MergeSortedArray.cpp)
+
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
