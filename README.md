@@ -19,6 +19,8 @@
 
 >[Valid Mountains](https://github.com/skar1707/DS-Algo/blob/main/Array/Valid_Mountain.cpp)
 
+>[Moves Zeroes(Beautiful)](https://github.com/skar1707/DS-Algo/blob/main/Array/Move_Zeroes.cpp)
+
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
