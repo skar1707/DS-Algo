@@ -25,6 +25,8 @@
 
 >[Merge Two Sorted Arrays](https://github.com/skar1707/DS-Algo/blob/main/Array/MergeSortedArray.cpp)
 
+>[Moving Balls](https://github.com/skar1707/DS-Algo/blob/main/Array/MovingBalls.cpp)
+
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
