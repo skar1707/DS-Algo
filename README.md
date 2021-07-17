@@ -39,6 +39,8 @@
 
 >[Merge Strings Alternatively](https://github.com/skar1707/DS-Algo/blob/main/String/MergeAlternatively.cpp)
 
+>[Making Anagrams](https://github.com/skar1707/DS-Algo/blob/main/String/Making_Anagrams.cpp)
+
 - # **Linked List**
 > [Reverse List](https://github.com/skar1707/DS-Algo/blob/main/Linked%20List/Reverse_List.cpp)
 
