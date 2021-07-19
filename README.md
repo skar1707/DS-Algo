@@ -31,6 +31,8 @@
 
 >[Remove Element](https://github.com/skar1707/DS-Algo/blob/main/Array/RemoveElement.cpp)
 
+>[Range](https://github.com/skar1707/DS-Algo/blob/main/Array/Range.cpp)
+
 - # **2DArray**
 >[Pascal Triangle](https://github.com/skar1707/DS-Algo/blob/main/2DArray/Pascal_Triangle.cpp)
 
