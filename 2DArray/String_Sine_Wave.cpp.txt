@@ -1,0 +1,53 @@
+//g++  7.4.0
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+  std::string s="Hello,World!";  
+  int len=s.length();
+  
+  
+  char arr[3][len];
+ int temp=0;
+    for(int i=0;i<3;i++)
+    {
+        for(int j=0;j<len;j++)
+        {
+            arr[i][j]=' ';
+        }
+    }
+for(int j=0;j<len;j++)
+    {
+for(int i=0;i<3;i++)
+{
+        if(i==1 && j%2==0)
+        {
+            arr[i][j]=s[temp];
+            temp++;
+        }
+        if(i==0 && j%4==1)
+        {
+            arr[i][j]=s[temp];
+            temp++;
+        }
+        if(i==2 && j%4==3)
+        {
+            arr[i][j]=s[temp];
+            temp++;
+        }
+    }
+}
+    for(int i=0;i<3;i++)
+    {
+for(int j=0;j<len;j++)
+{
+        cout<<arr[i][j];
+}
+    cout<<endl;
+}
+
+}
