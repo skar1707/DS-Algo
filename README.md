@@ -36,6 +36,8 @@
 - # **2DArray**
 >[Pascal Triangle](https://github.com/skar1707/DS-Algo/blob/main/2DArray/Pascal_Triangle.cpp)
 
+>[Sine Wave](https://github.com/skar1707/DS-Algo/blob/main/2DArray/String_Sine_Wave.cpp.txt)
+
 - # **String**
 >[Character Rotation](https://github.com/skar1707/DS-Algo/blob/main/String/Character_Rotation.cpp)
 
